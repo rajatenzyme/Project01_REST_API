@@ -1,0 +1,11 @@
+Schema ---> Define structure
+
+    Schema -> Model
+    Using Model --> CRUD operations
+
+
+
+
+    Model controls View
+      |
+    Controller controls Models

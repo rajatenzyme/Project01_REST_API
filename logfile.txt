@@ -1,0 +1,22 @@
+
+1710328967714 : ::1 GET : /api/users
+
+1710328986776 : ::1 POST : /api/users
+
+1710330470723 : ::1 GET : /api/users
+
+1710330479677 : ::1 GET : /api/users/65f1417d423eb1d36f5158dd
+
+1710330499294 : ::1 DELETE : /api/users/65f1417d423eb1d36f5158dd
+
+1710330510396 : ::1 GET : /api/users
+
+1710330550221 : ::1 PATCH : /api/users/65f18c9a4ed69785784e5cbd
+
+1710330554334 : ::1 GET : /api/users
+
+1710330820012 : ::1 GET : /api/users
+
+1710331089171 : ::1 GET : /api/users
+
+1710331099616 : ::1 POST : /api/users
